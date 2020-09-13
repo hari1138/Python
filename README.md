@@ -7,7 +7,7 @@
  Исследование поведения пользователей двух тарифов оператора сотовой связи: используя данные с  информацией по двум тарифам, выявили закономерности в поведении пользователей и спрогнозировали распределение маркетингового бюджета по каждому из тарифов.
 
 #### Ссылка на проект:
-https://github.com/hari1138/Python/blob/master/mobile_tariff_statistical_analysis.ipynb
+https://github.com/hari1138/Python/blob/master/analytics/mobile_tariff_statistical_analysis.ipynb
 
 ----
 
@@ -18,7 +18,7 @@ https://github.com/hari1138/Python/blob/master/mobile_tariff_statistical_analysi
 Исследование рынка игр: используя данные о продажах игр, оценках, жанрах и платформах, выявили закономерности и определили признаки успешности игр.
 
 #### Ссылка на проект:
-https://github.com/hari1138/Python/blob/master/game_platforms_analysis.ipynb
+https://github.com/hari1138/Python/blob/master/analytics/game_platforms_analysis.ipynb
 
 ---
 
@@ -30,7 +30,7 @@ https://github.com/hari1138/Python/blob/master/game_platforms_analysis.ipynb
 
 #### Ссылка на проект:
 
-https://github.com/hari1138/Python/blob/master/a_b_test_ecommerce.ipynb
+https://github.com/hari1138/Python/blob/master/analytics/a_b_test_ecommerce.ipynb
 
 ----
 
@@ -42,4 +42,4 @@ https://github.com/hari1138/Python/blob/master/a_b_test_ecommerce.ipynb
 
 #### Ссылка на проект:
 
-https://github.com/hari1138/Python/blob/master/food_market_research.ipynb
+https://github.com/hari1138/Python/blob/master/analytics/food_market_research.ipynb
